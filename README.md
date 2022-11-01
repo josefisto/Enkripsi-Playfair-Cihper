@@ -49,7 +49,7 @@
 <br></br>
 
 <p align="center">
-	<img src="ss/TUGAS_PRAK_PERT6.png" alt="" width="350" height="350">
+	<img src="ss/TUGAS_PRAK_PERT6.png" alt="" width="600" height="350">
 </p>
 
 ## Jawab :
