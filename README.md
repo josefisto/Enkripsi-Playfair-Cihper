@@ -47,3 +47,7 @@
 </hr>
 
 <br></br>
+
+<p align="center">
+	<img src="ss/TUGAS_PRAK_PERT6.png" alt="UPB" width="350" height="350">
+</p>
