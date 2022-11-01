@@ -59,17 +59,17 @@
 ### GOOD BROOM SWEEP CLEAN
 
 <p align="center">
-	<img src="tugas/GOOD BROOM SWEEP CLEAN.png" alt="" width="350" height="350">
+	<img src="tugas/GOOD BROOM SWEEP CLEAN.png" alt="" width="1020" height="600">
 </p>
 
 ### REDWOOD NATIONAL STATE PARK
 
 <p align="center">
-	<img src="tugas/REDWOOD NATIONAL STATE PARK.png" alt="" width="350" height="350">
+	<img src="tugas/REDWOOD NATIONAL STATE PARK.png" alt="" width="1020" height="600">
 </p>
 
 ### JUNK FOOD AND HEALTH PROBLEMS
 
 <p align="center">
-	<img src="tugas/JUNK FOOD AND HEALTH PROBLEMS.png" alt="" width="350" height="350">
+	<img src="tugas/JUNK FOOD AND HEALTH PROBLEMS.png" alt="" width="1020" height="600">
 </p>
