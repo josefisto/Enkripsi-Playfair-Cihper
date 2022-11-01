@@ -49,7 +49,7 @@
 <br></br>
 
 <p align="center">
-	<img src="ss/TUGAS_PRAK_PERT6.png" alt="UPB" width="350" height="350">
+	<img src="ss/TUGAS_PRAK_PERT6.png" alt="" width="350" height="350">
 </p>
 
 ## Jawab :
@@ -59,17 +59,17 @@
 ### GOOD BROOM SWEEP CLEAN
 
 <p align="center">
-	<img src="tugas/GOOD_BROOM_SWEEP_CLEAN.png" alt="UPB" width="350" height="350">
+	<img src="tugas/GOOD BROOM SWEEP CLEAN.png" alt="" width="350" height="350">
 </p>
 
 ### REDWOOD NATIONAL STATE PARK
 
 <p align="center">
-	<img src="tugas/REDWOOD_NATIONAL_STATE_PARK.png" alt="UPB" width="350" height="350">
+	<img src="tugas/REDWOOD NATIONAL STATE PARK.png" alt="" width="350" height="350">
 </p>
 
 ### JUNK FOOD AND HEALTH PROBLEMS
 
 <p align="center">
-	<img src="tugas/JUNK_FOOD_AND_HEALTH_PROBLEMS.png" alt="UPB" width="350" height="350">
+	<img src="tugas/JUNK FOOD AND HEALTH PROBLEMS.png" alt="" width="350" height="350">
 </p>
