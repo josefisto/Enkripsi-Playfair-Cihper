@@ -1,14 +1,14 @@
 <p align="center">
-	PEMROGRAMAN WEB
+	KRIPTOGRAFI
 </p>
 <p align="center">
-	TUGAS PRATIKUM 11
+	TUGAS PRAKTEK PLAYFAIR CHIPER
 </p>
 <p align="center">
-	Dosen Pengampu : Agung Nugroho, M.Kom
+	Dosen Pengampu : Ahmad Turmudizy,S.Kom.,M.Kom
 </p>
 <p align="center"> 
-	<b>Tugas untuk memenuhi syarat penilain pada Pert-12</b>
+	<b>Tugas untuk memenuhi syarat penilain pada Pert-6</b>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 	<b>TEKNIK INFORMATIKA</b>
 </p>
 <p align="center">
-	<b>TA 2021 / 2022</b>
+	<b>TA 2020 / 2021</b>
 </p>
 
 <br></br>
